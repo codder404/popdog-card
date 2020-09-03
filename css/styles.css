@@ -151,7 +151,7 @@ img {
 }
 
 .game:hover .rank {
-  transform: translate(150%, -66%);
+  transform: translate(170%, -68%);
 }
 
 .game:hover .name {
